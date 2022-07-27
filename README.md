@@ -5,11 +5,12 @@ My Portfolio - EDA
 
 ### Tarefas
 
-- Fazer requisição para API e Desenvolver Webscraping (Praticar os dois métodos de coleta de dados)
-- Executar limpeza dos dados
-- Produzir uma análise exploratória dos dados tratados
-- Gerar visualizações e insights
-- Inserir os resultados em uma apresentação simples para praticar Storytelling
+- Inicializar um novo ambiente.
+- Fazer requisição para API e Desenvolver Webscraping (Praticar os dois métodos de coleta de dados).
+- Executar limpeza dos dados.
+- Produzir uma análise exploratória dos dados tratados.
+- Gerar visualizações e insights.
+- Inserir os resultados em uma apresentação simples para praticar Storytelling.
 
 ---
 
